@@ -22,6 +22,10 @@ $ python koma_files [-p repertoire_contenant_les_fichiers_à_renommer] [-t type_
 
 NB: le repertoire contenant les fichiers et le type de fichiers doivent être fournis pour que le renommage soit effectif
 
+## APERÇU
+
+![Image text] https://github.com/Jopsy26/koma_files/apercu.png
+
 ## REMARQUE
 
 Le système de fichier utilisé ici est basé sur Linux. Si vous l'utilisez sur un système Windows, veuillez remplacer les slash '/' par des anti-slash '\' pour éviter les erreurs éventuelles.
