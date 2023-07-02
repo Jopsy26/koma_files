@@ -15,7 +15,12 @@ Jopsy O'Hara - jopsy.contact@gmail.com
 
 ## USAGE
 
-$ git clone 
+$ git clone https://github.com/Jopsy26/koma_files.git
+$ cd ../path/to/the/file
+$ python koma_files [-p repertoire_contenant_les_fichiers_à_renommer] [-t type_de_fichiers_à_renommer] [-a prefixe_utilisé] 
+[-d repertoire_de_destination_des_fichiers] [-v mode_verbose]
+
+NB: le repertoire contenant les fichiers et le type de fichiers doivent être fournis pour que le renommage soit effectif
 
 ## REMARQUE
 
