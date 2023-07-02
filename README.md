@@ -24,7 +24,7 @@ NB: le repertoire contenant les fichiers et le type de fichiers doivent être fo
 
 ## APERÇU
 
-![Image text] [https://github.com/Jopsy26/koma_files/apercu.png](https://github.com/Jopsy26/koma_files/blob/main/apercu.png)
+![alt text](https://github.com/Jopsy26/koma_files/blob/main/apercu.png)
 
 ## REMARQUE
 
